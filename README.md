@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Desbravando o Mundo da Inteligência Artificial: O Primeiro Passo para o Futuro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook com orientações para jovens de escola pública serem motivados a conhecerem a Inteligência Artificial e informações para iniciarem sua jornada de estudos.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
