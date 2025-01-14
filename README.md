@@ -4,6 +4,8 @@
 Ebook com orientações para jovens de escola pública serem motivados a conhecerem a Inteligência Artificial e informações para iniciarem sua jornada de estudos.
 
 ## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)**
+- 
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
