@@ -1,5 +1,3 @@
-# Ebook
-Primeiro desafio do Boot Camp DIO
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
