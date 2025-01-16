@@ -1,18 +1,20 @@
 # Desbravando o Mundo da Inteligência Artificial: O Primeiro Passo para o Futuro
 
 ## 📒 Descrição
-Ebook com orientações para jovens de escola pública serem motivados a conhecerem a Inteligência Artificial e informações para iniciarem sua jornada de estudos.
+E-book com orientações para jovens de escola pública serem motivados a conhecerem a Inteligência Artificial e informações para iniciarem sua jornada de estudos.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)**
-- 
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Gerador de Imagens **[LeonardoAI](https://app.leonardo.ai)**
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei a técnica FTAE para um prompt assertivo no Chat GPT.
+A capa do E-book foi gerada no Leonardo.Ai com prompt criado pelo Chat GPT.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+link 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão 
+Experiência incrível: meu primeiro E-book feito a partir do meu primeiro contato com programação.
+
+"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" Einstein
