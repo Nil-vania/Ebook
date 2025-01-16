@@ -12,7 +12,7 @@ Usei a técnica FTAE para um prompt assertivo no Chat GPT.
 A capa do E-book foi gerada no Leonardo.Ai com prompt criado pelo Chat GPT.
 
 ## 🚀 Resultados
-link 
+**[Link do E-book](https://drive.google.com/file/d/1iTvOu0Wfdv2RlpiKuwi1LJsmNE-MicW9/view?usp=drivesdk)** 
 
 ## 💭 Reflexão 
 Experiência incrível: meu primeiro E-book feito a partir do meu primeiro contato com programação.
